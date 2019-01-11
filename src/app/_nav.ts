@@ -226,7 +226,7 @@ export const navItems = [
     attributes: { disabled: true },
   },
   {
-    name: 'Download CoreUI',
+    name: 'Demo app',
     url: 'http://coreui.io/angular/',
     icon: 'icon-cloud-download',
     class: 'mt-auto',
@@ -234,7 +234,7 @@ export const navItems = [
     attributes: { target: '_blank', rel: 'noopener' }
   },
   {
-    name: 'Try CoreUI PRO',
+    name: 'By Azem Zejnilović',
     url: 'http://coreui.io/pro/angular/',
     icon: 'icon-layers',
     variant: 'danger',
